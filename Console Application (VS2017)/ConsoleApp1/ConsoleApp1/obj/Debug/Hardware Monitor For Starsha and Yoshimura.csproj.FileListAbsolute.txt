@@ -1,0 +1,8 @@
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Hardware Monitor For Starsha and Yoshimura.exe.config
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Hardware Monitor For Starsha and Yoshimura.exe
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Hardware Monitor For Starsha and Yoshimura.pdb
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.dll
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.xml
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Hardware Monitor For Starsha and Yoshimura.exe
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Hardware Monitor For Starsha and Yoshimura.pdb
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Hardware Monitor For Starsha and Yoshimura.csprojResolveAssemblyReference.cache

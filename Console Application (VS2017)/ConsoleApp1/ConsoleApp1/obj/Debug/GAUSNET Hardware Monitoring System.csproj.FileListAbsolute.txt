@@ -1,0 +1,8 @@
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\GAUSNET Hardware Monitoring System.exe.config
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\GAUSNET Hardware Monitoring System.exe
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\GAUSNET Hardware Monitoring System.pdb
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.dll
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.xml
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\GAUSNET Hardware Monitoring System.exe
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\GAUSNET Hardware Monitoring System.pdb
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\GAUSNET Hardware Monitoring System.csprojResolveAssemblyReference.cache

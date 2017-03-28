@@ -1,0 +1,8 @@
+c:\users\gauso001\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Hardware Monitor console edition.exe.config
+c:\users\gauso001\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Hardware Monitor console edition.exe
+c:\users\gauso001\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Hardware Monitor console edition.pdb
+c:\users\gauso001\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Hardware Monitor console edition.exe
+c:\users\gauso001\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Hardware Monitor console edition.pdb
+c:\users\gauso001\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Hardware Monitor console edition.csprojResolveAssemblyReference.cache
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.dll
+C:\Users\gauso001\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.xml
